@@ -12,7 +12,7 @@ A high-accuracy image classification web application that distinguishes between 
 
 ## Demo
 
-![Cats vs Dogs Classifier Interface](Screenshot%202025-07-25%20at%201.32.10%20PM.png)
+![Cats vs Dogs Classifier Interface](demo.png)
 
 ## Quick Start
 
